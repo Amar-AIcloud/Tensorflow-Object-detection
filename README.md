@@ -7,7 +7,7 @@ This can be done in anaconda prompt.
 
 pip install labelImg
 labelImg
-# or
+or
 labelImg [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
 
 #### The above command opens a seperate window where we can label our images.
